@@ -1,0 +1,49 @@
+---
+
+---
+@charset "utf-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
+// Our variables
+// $base-font-family: "Open Sans", sans-serif;
+$base-font-family: 'Open Sans', sans-serif;
+$base-font-size:   16px;
+$base-font-weight: 300;
+$small-font-size:  $base-font-size * 0.95;
+$base-line-height: 1.5;
+
+$alt-font-family: 'Open Sans', sans-serif;
+$alt-font-weight: 400;
+
+$spacing-unit:     50px;
+
+$text-color:       #111 !default;
+$background-color: #ffffff !default;
+$brand-color:      #B30000 !default;
+
+$grey-color:       #3F3F3F;
+$grey-color-light: lighten($grey-color, 50%);
+$grey-color-lighter: lighten($grey-color, 70%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    800px;
+
+$on-palm:          500px;
+$on-laptop:        750px;
+
+// Minima also includes a mixin for defining media queries.
+// Use media queries like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+
+// Import partials from the `minima` theme.
+@import "academic";
+
+@import "customstyles.scss"
