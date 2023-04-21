@@ -11,4 +11,4 @@ title: Research
 
 ### Talks
 
-* Stochastic Dynamic Programming and Model Predictive Pontrol (Oct. 2022, Auckland) <i>at: 54th Annual Conference of the Operations Research Society of New Zealand<i>.
+* Stochastic Dynamic Programming and Model Predictive Control (Oct. 2022, Auckland) <i>at: 54th Annual Conference of the Operations Research Society of New Zealand<i>.
