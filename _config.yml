@@ -28,7 +28,7 @@ curriculum:
   name: cv
   url: "assets/cv.pdf"
 github_username: dstkeehan
-linkedin_username: dominic-keehan
+linkedin_username: dominickeehan
 
 # Build settings
 remote_theme: gaalcaras/academic
