@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Dominic Keehan
+title: D.S.T. Keehan
 email: email@host.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -27,8 +27,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 curriculum: 
   name: cv
   url: "assets/cv.pdf"
-github_username: dominickeehan
-linkedin_username: dominic-keehan
+github_username: dstkeehan
+linkedin_username: dstkeehan
 
 # Build settings
 remote_theme: gaalcaras/academic
