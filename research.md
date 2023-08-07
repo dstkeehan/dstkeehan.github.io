@@ -13,6 +13,6 @@ title: Research
 
 ### Talks
 
-* Stochastic Dynamic Programming and Model Predictive Control (July 2023, Davis, California) <i>at: Forthcoming, XVI International Conference on Stochastic Programming</i>.  
+* [Model Predictive Control and Stochastic Dynamic Programming](assets/2023-ICSP-Davis-slides.pdf) (July 2023, Davis, California) <i>at: XVI International Conference on Stochastic Programming</i>.  
   
 * Model Predictive Control and Distributionally Robust Stochastic Dynamic Programming (Oct. 2022, Auckland, New Zealand) <i>at: 54<sup>th</sup> Annual Conference of the Operations Research Society of New Zealand</i>.
