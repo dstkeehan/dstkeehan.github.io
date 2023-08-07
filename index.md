@@ -17,4 +17,4 @@ My research involves decision making under uncertainty. In particular, I am look
     <li>Probability and Statistics</li>
 </ul>
 
-In my spare time I enjoy Futsal, where I play flanker.
+In my spare time I enjoy Futsal, where I play pivot.
