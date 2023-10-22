@@ -14,5 +14,7 @@ title: Research
 ### Talks
 
 * [Model Predictive Control and Stochastic Dynamic Programming](assets/2023-ICSP-Davis-slides.pdf)
-  * XVI International Conference on Stochastic Programming, July 2023, Davis, California.
-  * 54<sup>th</sup> Annual Conference of the Operations Research Society of New Zealand, Oct. 2022, Auckland, New Zealand.
+
+  XVI International Conference on Stochastic Programming, July 2023, Davis, California.
+
+  54<sup>th</sup> Annual Conference of the Operations Research Society of New Zealand, Oct. 2022, Auckland, New Zealand.
