@@ -3,19 +3,19 @@
 ---
 @charset "utf-8";
 
-// @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
 // Our variables
 // $base-font-family: 'Open Sans', sans-serif;
 $base-font-family: 'Roboto', sans-serif;
 $base-font-size:   16px;
-$base-font-weight: 100;
+$base-font-weight: 300;
 $small-font-size:  $base-font-size * 0.95;
 $base-line-height: 1.5;
 
-$alt-font-family: 'Roboto', sans-serif;
-$alt-font-weight: 300;
+$alt-font-family: 'Open Sans', sans-serif;
+$alt-font-weight: 400;
 
 $spacing-unit:     50px;
 
