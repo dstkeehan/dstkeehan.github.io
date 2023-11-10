@@ -17,4 +17,4 @@ My research involves decision making under uncertainty. In particular, I am look
     <li>Probability and Statistics</li>
 </ul>--->
 
-In my spare time I enjoy playing Futsal.
+In my spare time I enjoy playing [Futsal](https://en.wikipedia.org/wiki/Futsal).
