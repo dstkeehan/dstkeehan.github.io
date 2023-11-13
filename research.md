@@ -17,4 +17,4 @@ title: Research
 
   XVI International Conference on Stochastic Programming, July 2023, Davis, California.
 
-  54<sup>th</sup> Annual Conference of the Operations Research Society of New Zealand, Oct. 2022, Auckland, New Zealand.
+  54<sup>th</sup> Conference of the Operations Research Society of New Zealand, Oct. 2022, Auckland, New Zealand.
