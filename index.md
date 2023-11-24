@@ -4,7 +4,7 @@ title: Hello
 invisible: true
 ---
 
-### Hello 👋
+### Hello :wave:
 
 I am a [doctoral candidate](https://profiles.auckland.ac.nz/dkee331) in operations research at the University of Auckland, supervised by [Andy Philpott](https://profiles.auckland.ac.nz/a-philpott) and [Andrew Mason](https://profiles.auckland.ac.nz/a-mason).
 
