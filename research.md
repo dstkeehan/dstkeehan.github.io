@@ -15,11 +15,11 @@ title: Research
 
 * Multistage production planning and price modelling
 
-  <em>55<sup>th</sup> Conference of the Operations Research Society of New Zealand</em>, Auckland, New Zealand, Nov. 2023.<br>🏅 Awarded the Young Practioner Prize.
+  <em>55<sup>th</sup> Conference of the Operations Research Society of New Zealand</em>, Auckland, New Zealand, Nov. 2023. 🏅 Awarded the Young Practioner Prize.
 
 * [Model Predictive Control and Stochastic Dynamic Programming](assets/2023-ICSP-Davis-slides.pdf)
 
   <em>XVI International Conference on Stochastic Programming</em>, Davis, California, July 2023.
 
-  <em>54<sup>th</sup> Conference of the Operations Research Society of New Zealand</em>, Auckland, New Zealand, Oct. 2022.<br>🏅 Awarded the Young Practioner Prize.
+  <em>54<sup>th</sup> Conference of the Operations Research Society of New Zealand</em>, Auckland, New Zealand, Oct. 2022. 🏅 Awarded the Young Practioner Prize.
   
