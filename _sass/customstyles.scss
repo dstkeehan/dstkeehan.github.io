@@ -1,10 +1,10 @@
 h1, h2, h3 { margin-top: 0px; margin-bottom: 15px; }
 p { margin-top: 0px; margin-bottom: 15px; font-size: 1.05rem; line-height: 1.5rem }
 
-width_value = 750px
+$page-width : 825px
 
-.wrapper { max-width: -webkit-calc(width_value - (50px * 2)); max-width: calc(750px - (50px * 2)) }
-@media screen and (max-width: 750px) { .wrapper { max-width: -webkit-calc(750px - (50px)); max-width: calc(750px - (50px)) } }
+.wrapper { max-width: -webkit-calc($page-width - (50px * 2)); max-width: calc($page-width - (50px * 2)) }
+@media screen and (max-width: $page-width) { .wrapper { max-width: -webkit-calc($page-width - (50px)); max-width: calc($page-width - (50px)) } }
 
 .site-footer { font-size: 1rem; line-height: 1.6rem; border-top: 1px solid #FFFFFF; color: #FFFFFF; }
 .site-footer .bottom { color: #bfbfbf; width: 100%; clear: both; float: none; text-align: center; margin-top: 0px; margin-bottom: 50px; }
