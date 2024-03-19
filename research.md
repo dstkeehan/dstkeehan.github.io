@@ -5,7 +5,7 @@ title: Research
 
 ### Publications
 
-* [Sample average approximation and model predictive control for inventory optimization](https://optimization-online.org/2023/05/sample-average-approximation-and-model-predictive-control-for-inventory-optimization/). <em>Preprint</em>, May 2023.
+* [Sample average approximation and model predictive control for multistage stochastic optimization](https://optimization-online.org/2024/03/sample-average-approximation-and-model-predictive-control-for-multistage-stochastic-optimization/). <em>Preprint</em>, March 2024.
 
 * [Microlensing model inference with normalising flows and reversible jump MCMC](https://doi.org/10.1016/j.ascom.2022.100657). <em>Astronomy and Computing 41</em>, p. 100657, Oct. 2022.
 
